@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/main.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/main.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/main.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/main.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/ap.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/ap.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/ap.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/ap.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/NFC_rf522.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/NFC_rf522.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/NFC_spi.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/NFC_spi.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/button.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/button.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/buzzer.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/buzzer.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/fnd_4ea.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/fnd_4ea.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/i2c.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/i2c.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/i2c_lcd.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/i2c_lcd.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/led.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/led.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/pwm16.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/pwm16.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/pwm16.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/pwm16.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/pwm8.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/pwm8.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/rgb_led.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/rgb_led.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/uart0.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/uart0.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/uart1.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/uart1.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic_cap.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic_cap.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic_int.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/driver/ultrasonic_int.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj"
+},
+{
+  "directory": "/home/kimgwanwoo/avr-vscode/atmega128a/build",
+  "command": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc -DF_CPU=16000000L -I/home/kimgwanwoo/avr-vscode/atmega128a/src -I/home/kimgwanwoo/avr-vscode/atmega128a/src/ap -I/home/kimgwanwoo/avr-vscode/atmega128a/src/bsp -I/home/kimgwanwoo/avr-vscode/atmega128a/src/hw -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common -I/home/kimgwanwoo/avr-vscode/atmega128a/src/common/hw/include -mmcu=atmega128a -g -std=gnu11 -mmcu=atmega128a -fdata-sections -ffunction-sections -MMD -flto -fno-fat-lto-objects -Wall -Os -g3 -o CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj -c /home/kimgwanwoo/avr-vscode/atmega128a/src/project_main.c",
+  "file": "/home/kimgwanwoo/avr-vscode/atmega128a/src/project_main.c",
+  "output": "CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj"
+}
+]

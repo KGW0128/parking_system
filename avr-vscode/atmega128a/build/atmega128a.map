@@ -1,0 +1,892 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o (exit)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+                              CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin) (__iob)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o) (__do_clear_bss)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+                              /tmp/ccSILuOC.ltrans0.ltrans.o (__do_copy_data)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+                              /tmp/ccSILuOC.ltrans0.ltrans.o (__fixunssfsi)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+                              /tmp/ccSILuOC.ltrans0.ltrans.o (__floatunsisf)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o) (__fp_splitA)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o) (__fp_zero)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+                              /tmp/ccSILuOC.ltrans0.ltrans.o (__mulsf3)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o) (__mulsf3x)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o) (__fp_inf)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o) (__fp_nan)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o) (__fp_pscA)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o) (__fp_pscB)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o) (__fp_round)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+                              /tmp/ccSILuOC.ltrans0.ltrans.o (sprintf)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o) (vfprintf)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen_P)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (strnlen)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (fputc)
+/home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+usTcnt              0x2               CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+__iob               0x6               /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+I2C_LCD_Data        0x1               CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/pwm16.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ .data          0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+ .bss           0x0000000000000000        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800100 0x0000000000001000 rw !x
+eeprom           0x0000000000810000 0x0000000000001000 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a
+LOAD CMakeFiles/atmega128a.elf.dir/main.c.obj
+LOAD /tmp/ccSILuOC.ltrans0.ltrans.o
+LOAD CMakeFiles/atmega128a.elf.dir/src/ap.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/pwm16.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj
+LOAD CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj
+START GROUP
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a
+LOAD /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libatmega128a.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800100
+                [0x0000000000020000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000001000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                [0x0000000000001000]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x11ce
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000000000008c                . = ALIGN (0x2)
+                0x000000000000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000008c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000000000008c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000008c                __ctors_start = .
+ *(.ctors)
+                0x000000000000008c                __ctors_end = .
+                0x000000000000008c                __dtors_start = .
+ *(.dtors)
+                0x000000000000008c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000008c        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x000000000000008c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000008c        0xc /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000098       0x10 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+                0x0000000000000098                __do_clear_bss
+ .init4         0x00000000000000a8       0x1a /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+                0x00000000000000a8                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000c2        0x8 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000ca        0x4 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+                0x00000000000000ca                __vector_22
+                0x00000000000000ca                __vector_28
+                0x00000000000000ca                __vector_1
+                0x00000000000000ca                __vector_32
+                0x00000000000000ca                __vector_34
+                0x00000000000000ca                __vector_24
+                0x00000000000000ca                __vector_12
+                0x00000000000000ca                __bad_interrupt
+                0x00000000000000ca                __vector_6
+                0x00000000000000ca                __vector_31
+                0x00000000000000ca                __vector_3
+                0x00000000000000ca                __vector_23
+                0x00000000000000ca                __vector_11
+                0x00000000000000ca                __vector_13
+                0x00000000000000ca                __vector_17
+                0x00000000000000ca                __vector_19
+                0x00000000000000ca                __vector_7
+                0x00000000000000ca                __vector_27
+                0x00000000000000ca                __vector_5
+                0x00000000000000ca                __vector_33
+                0x00000000000000ca                __vector_4
+                0x00000000000000ca                __vector_9
+                0x00000000000000ca                __vector_2
+                0x00000000000000ca                __vector_21
+                0x00000000000000ca                __vector_15
+                0x00000000000000ca                __vector_29
+                0x00000000000000ca                __vector_26
+                0x00000000000000ca                __vector_14
+                0x00000000000000ca                __vector_10
+                0x00000000000000ca                __vector_16
+                0x00000000000000ca                __vector_20
+ .text          0x00000000000000ce      0x532 /tmp/ccSILuOC.ltrans0.ltrans.o
+                0x00000000000003d0                __vector_8
+                0x000000000000043e                __vector_25
+                0x00000000000004a2                __vector_30
+                0x00000000000005bc                __vector_18
+                0x0000000000000600                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x0000000000000600      0x3c8 /tmp/ccSILuOC.ltrans0.ltrans.o
+                0x0000000000000600                main
+ .text.avr-libc.fplib
+                0x00000000000009c8       0x5e /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+                0x00000000000009c8                __fixunssfsi
+ .text.avr-libc.fplib
+                0x0000000000000a26       0x7a /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+                0x0000000000000a26                __floatunsisf
+                0x0000000000000a2a                __floatsisf
+ .text.avr-libc.fplib
+                0x0000000000000aa0       0x44 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                0x0000000000000aa0                __fp_split3
+                0x0000000000000ab0                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000000ae4        0xe /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                0x0000000000000ae4                __fp_zero
+                0x0000000000000ae6                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000000af2        0x8 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+                0x0000000000000af2                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000000afa       0xd2 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+                0x0000000000000b18                __mulsf3x
+                0x0000000000000b1e                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000000bcc        0xc /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+                0x0000000000000bcc                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000000bd8        0x6 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+                0x0000000000000bd8                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000000bde        0xe /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+                0x0000000000000bde                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000000bec        0xe /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+                0x0000000000000bec                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000000bfa       0x22 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+                0x0000000000000bfa                __fp_round
+ .text.avr-libc
+                0x0000000000000c1c       0x60 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+                0x0000000000000c1c                sprintf
+ .text.avr-libc
+                0x0000000000000c7c      0x406 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                0x0000000000000c7c                vfprintf
+ .text.avr-libc
+                0x0000000000001082       0x16 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                0x0000000000001082                strnlen_P
+ .text.avr-libc
+                0x0000000000001098       0x16 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                0x0000000000001098                strnlen
+ .text.avr-libc
+                0x00000000000010ae       0x60 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                0x00000000000010ae                fputc
+ .text.avr-libc
+                0x000000000000110e       0xbc /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                0x000000000000110e                __ultoa_invert
+                0x00000000000011ca                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000011ca        0x0 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+                0x00000000000011ca                exit
+                0x00000000000011ca                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000011ca        0x4 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000011ce                _etext = .
+
+.data           0x0000000000800100       0x74 load address 0x00000000000011ce
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100       0x10 /tmp/ccSILuOC.ltrans0.ltrans.o
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000800110       0x63 /tmp/ccSILuOC.ltrans0.ltrans.o
+ *(.gnu.linkonce.r*)
+                0x0000000000800174                . = ALIGN (0x2)
+ *fill*         0x0000000000800173        0x1 
+                0x0000000000800174                _edata = .
+                0x0000000000800174                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800174       0x10
+                0x0000000000800174                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800174        0xa /tmp/ccSILuOC.ltrans0.ltrans.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x000000000080017e        0x6 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+                0x000000000080017e                __iob
+                0x0000000000800184                PROVIDE (__bss_end, .)
+                0x00000000000011ce                __data_load_start = LOADADDR (.data)
+                0x0000000000001242                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800184        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800184                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x30 /tmp/ccSILuOC.ltrans0.ltrans.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x2c /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005c       0x2d /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+ .comment       0x000000000000005c       0x2d /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ .comment       0x000000000000005c       0x2d /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x40 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x28
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x21d9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x780 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_info    0x0000000000000780     0x1a59 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0xb09
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x718 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_abbrev  0x0000000000000718      0x3f1 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000      0xa50
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_line    0x000000000000001a      0xa36 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_frame    0x0000000000000000      0x23c
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x23c /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000      0x80d
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x27d /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+ .debug_str     0x000000000000027d      0x590 /tmp/ccSILuOC.ltrans0.ltrans.o
+                                        0x5ac (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x10b4
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x10b4 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0xa0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0xa0 /tmp/ccSILuOC.ltrans0.ltrans.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(atmega128a.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Button_Init                                       CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+Button_getState                                   CMakeFiles/atmega128a.elf.dir/src/driver/button.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+FND_Display                                       CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj (symbol from plugin)
+FND_Init                                          CMakeFiles/atmega128a.elf.dir/src/driver/fnd_4ea.c.obj (symbol from plugin)
+I2C_Init                                          CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+I2C_LCD_Data                                      CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+I2C_Start                                         CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+I2C_Stop                                          CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+I2C_TxByte                                        CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+I2C_TxData                                        CMakeFiles/atmega128a.elf.dir/src/driver/i2c.c.obj (symbol from plugin)
+LCD_BackLightOn                                   CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_Data4bit                                      CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_EnablePin                                     CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_GotoXY                                        CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_Init                                          CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+LCD_WriteCommand                                  CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_WriteData                                     CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_WriteString                                   CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+LCD_WriteStringXY                                 CMakeFiles/atmega128a.elf.dir/src/driver/i2c_lcd.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+OUTPUT                                            CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+OUTPUT_1                                          CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+__DATA_REGION_LENGTH__                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__DATA_REGION_ORIGIN__                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__EEPROM_REGION_LENGTH__                          /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__FUSE_REGION_LENGTH__                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__TEXT_REGION_LENGTH__                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__TEXT_REGION_ORIGIN__                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__bad_interrupt                                   /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__bss_end                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+__bss_start                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+__data_end                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+__data_load_start                                 /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+__data_start                                      /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+__do_clear_bss                                    /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_clear_bss.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+__do_copy_data                                    /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_copy_data.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+__fixunssfsi                                      /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+__floatsisf                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+__floatunsisf                                     /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(floatsisf.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+__fp_inf                                          /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_nan                                          /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_pscA                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_pscB                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_round                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+__fp_split3                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_splitA                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+__fp_szero                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__fp_zero                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(fixunssfsi.o)
+__heap_end                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__init                                            /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__iob                                             /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(iob.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+__mulsf3                                          /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+__mulsf3_pse                                      /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+__mulsf3x                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+__stack                                           /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__ultoa_invert                                    /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(ultoa_invert.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+__vector_1                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_10                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_11                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_12                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_13                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_14                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_15                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_16                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_17                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_18                                       /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_19                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_2                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_20                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_21                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_22                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_23                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_24                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_25                                       /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_26                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_27                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_28                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_29                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_3                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_30                                       /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_31                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_32                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_33                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_34                                       /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_4                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_5                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_6                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_7                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_8                                        /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_9                                        /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vector_default                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+__vectors                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+_exit                                             /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+apInit                                            CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+apMain                                            CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+buzzerInit                                        CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+buzzerRun                                         CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+buzzerStop                                        CMakeFiles/atmega128a.elf.dir/src/driver/buzzer.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+endCount                                          CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+exit                                              /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/avr51/libgcc.a(_exit.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+fputc                                             /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(fputc.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+ledInit                                           CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+ledOff                                            CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj (symbol from plugin)
+ledOn                                             CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj (symbol from plugin)
+ledToggle                                         CMakeFiles/atmega128a.elf.dir/src/driver/led.c.obj (symbol from plugin)
+main                                              /tmp/ccSILuOC.ltrans0.ltrans.o
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/crtatmega128a.o
+meanDistance                                      CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj (symbol from plugin)
+mfrc522_get_card_serial                           CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+mfrc522_init                                      CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+mfrc522_read                                      CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+mfrc522_request                                   CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+mfrc522_reset                                     CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+mfrc522_to_card                                   CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+mfrc522_write                                     CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+project_Main                                      CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/main.c.obj (symbol from plugin)
+pwm16Init                                         CMakeFiles/atmega128a.elf.dir/src/driver/pwm16.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+pwm8Init                                          CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+pwm8Run                                           CMakeFiles/atmega128a.elf.dir/src/driver/pwm8.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+rgb_init                                          CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+risingEdge                                        CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+rxBuff                                            CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+rxBuff_1                                          CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+rxFlag                                            CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+rxFlag_1                                          CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+set_color                                         CMakeFiles/atmega128a.elf.dir/src/driver/rgb_led.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+spi_init                                          CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+spi_transmit                                      CMakeFiles/atmega128a.elf.dir/src/driver/NFC_spi.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/NFC_rf522.c.obj (symbol from plugin)
+sprintf                                           /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)
+                                                  /tmp/ccSILuOC.ltrans0.ltrans.o
+startCount                                        CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+strnlen                                           /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+strnlen_P                                         /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(strnlen_P.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+systemState                                       CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+timerInit                                         CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj (symbol from plugin)
+triggerPin                                        CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic.c.obj (symbol from plugin)
+uart0Init                                         CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+uart0Receive                                      CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+uart0Transmit                                     CMakeFiles/atmega128a.elf.dir/src/driver/uart0.c.obj (symbol from plugin)
+uart1Init                                         CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+uart1Receive                                      CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+uart1_Read_Transmit                               CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+uart1_System_Distance                             CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+uart1_Write_Transmit                              CMakeFiles/atmega128a.elf.dir/src/driver/uart1.c.obj (symbol from plugin)
+ultraDistance                                     CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+ultraInit                                         CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+ultraTrigger                                      CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_cap.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/ap.c.obj (symbol from plugin)
+ultrasonicDistance                                CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+ultrasonicInit                                    CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+ultrasonicTrigger                                 CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+                                                  CMakeFiles/atmega128a.elf.dir/src/project_main.c.obj (symbol from plugin)
+usTcnt                                            CMakeFiles/atmega128a.elf.dir/src/driver/ultrasonic_int.c.obj (symbol from plugin)
+vfprintf                                          /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(vfprintf_std.o)
+                                                  /home/kimgwanwoo/avr-vscode/avr8/bin/../lib/gcc/avr/7.3.0/../../../../avr/lib/avr51/libc.a(sprintf.o)

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "pwm16.h": "c",
+        "uart0.h": "c",
+        "ultrasonic_int.h": "c",
+        "ultrasonic_cap.h": "c",
+        "project_main.h": "c",
+        "i2c_lcd.h": "c",
+        "string.h": "c",
+        "def.h": "c",
+        "pwm8.h": "c"
+    }
+}

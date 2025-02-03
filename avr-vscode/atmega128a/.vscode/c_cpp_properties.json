@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/kimgwanwoo/avr-vscode/avr8/avr/include"
+            ],
+            "defines": [],
+            //이부분 주소 맞는지 확인
+            "compilerPath": "/home/kimgwanwoo/avr-vscode/avr8/bin/avr-gcc",
+            "cStandard": "c17",
+            "cppStandard": "c++98",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

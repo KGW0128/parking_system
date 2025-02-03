@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/atmega128a.dir/main.c.o -o atmega128a 
